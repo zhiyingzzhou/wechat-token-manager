@@ -1,0 +1,23 @@
+{
+  "name": "wechat-token-manager",
+  "version": "0.1.0",
+  "description": "wechat access token manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "nodejs"
+  ],
+  "author": "zhiyingzzhou",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "dependencies": {}
+}
